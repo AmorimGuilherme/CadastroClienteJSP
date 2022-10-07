@@ -1,6 +1,6 @@
 # Cadastro de Cliente - JSP/HTML/CSS	
 
-## Projeto simples de Cadastro de Clientes com JavaServer Pages, HTML e CSS utilizando Apache Tomcat.
+## Projeto de Cadastro de Clientes com JavaServer Pages, HTML e CSS utilizando Apache Tomcat.
 
 JavaServer Pages ou JSP é uma tecnologia que auxilia os desenvolvedores de software a criarem páginas web dinamicamente baseada em **HTML**, **CSS**, XML, entre outras.
 
