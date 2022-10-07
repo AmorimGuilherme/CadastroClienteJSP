@@ -13,5 +13,15 @@ O **Tomcat** é um servidor web Java, mais especificamente, um container de serv
 
 Na tecnologia JSP um **scriptlet** (que vem da palavra em em inglês _script_, que significa "roteiro" ou tecnicamente falando, um pedaço de código em linguagem script, e do sufixo _let_, que indica o diminutivo, ou seja _pequeno script_ ou _scriptzinho_) é um pedaço de código Java embutido em um código **JSP** semelhante a um código HTML. O scriptlet é todo o conteúdo que está dentro das tags `<% %>`. Entre elas o usuário pode adicionar qualquer scriptlet válido, isto é, qualquer código Java.
 
-## Tela Cadastro 
+### Tela de Cadastro 
+
+<div align="center"><img "width: 100%" src="images/TelaCadastroClientes.png"></div>
+
+### Tela de Cadastro com dados inseridos
+
+<div align="center"><img "width: 100%" src="images/TelaCadastroClientesComRegistros.png"></div>
+
+### Tela de Registro JSP
+
+<div align="center"><img "width: 100%" src="images/TelaRetornoCadastroClienteJSP.png"></div>
 
